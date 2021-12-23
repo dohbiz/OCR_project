@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_1.png	Available                	0.9997
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_2.jpg	SHAKESHACK               	0.9327
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_3.png	London                   	0.9996
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_4.png	Greenstead               	0.9988
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_5.png	toast                    	0.6010
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_6.png	MERRY                    	0.9298
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_7.png	underground              	0.9998
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_8.jpg	RONALDO                  	0.4233
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_9.jpg	Bally                    	0.4365
+/home/user01/ocr_recognition/deep-text-recognition-benchmark/demo_image/demo_10.jpg	UNIVERBIXT               	0.0767
